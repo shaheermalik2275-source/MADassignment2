@@ -1,4 +1,4 @@
-package com.example.L1SBSCS0324;
+package com.example.L1S22BSCS0324;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
