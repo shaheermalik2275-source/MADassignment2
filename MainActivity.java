@@ -1,4 +1,3 @@
-// java/com/example/myapp/MainActivity.java
 package com.example.L1SBSCS0324;
 
 import androidx.appcompat.app.AppCompatActivity;
